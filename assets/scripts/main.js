@@ -34,7 +34,7 @@ $(function () {
   });
 
   // форма отправки сообщения
-  $('.feedback__form').on('submit', function(e) {
+  /*$('.feedback__form').on('submit', function(e) {
     e.preventDefault();
 
     const form = $('form[name="feedback"]')[0];
@@ -65,5 +65,5 @@ $(function () {
         }
       }, 'json');
     }
-  });
+  });*/
 });
