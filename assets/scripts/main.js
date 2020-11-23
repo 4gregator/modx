@@ -1,6 +1,6 @@
 $(function () {
   // мобменю
-  const mmenu = new Mmenu('.sidebar__nav', {
+  const mmenu = new Mmenu('.mmenu', {
     navbar: {
       title: 'Основное меню сайта',
       titleLink: 'none'
