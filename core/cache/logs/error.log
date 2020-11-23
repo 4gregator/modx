@@ -1,0 +1,632 @@
+[2020-11-18 15:17:31] (ERROR @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 644) Could not load class: modTransliterate from translit.modtransliterate.
+[2020-11-18 15:17:31] (ERROR @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1247) Problem getting service translit, instance of class translit.modTransliterate, from path C:/xampp/htdocs/core/components/
+[2020-11-18 15:19:04] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:04] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:04] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:04] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:32] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:32] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:32] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:19:32] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:01] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:01] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:02] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:02] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:15] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:15] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:15] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:15] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:20] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:20] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:23] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:23] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:35] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:35] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:35] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:35] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:26:45] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:33] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:33] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:36] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:36] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:54] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:29:54] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:03] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:03] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:06] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:06] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:06] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:30:06] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:00] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:00] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:02] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:02] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:10] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:10] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:10] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:10] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:35] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:35] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:38] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:38] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:57] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:32:57] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:02] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:02] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:07] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:07] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:07] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:07] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:27] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:27] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:30] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:30] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:33] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:33] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:33] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:33:33] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:15] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:15] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:23] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:23] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:31] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:31] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:41] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:35:41] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:08] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:08] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:17] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:17] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:33] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:33] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:33] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:33] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:43] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:43] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:45] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:45] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:54] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:54] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:54] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:37:54] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:38:07] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:38:07] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:38:19] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 15:38:19] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-18 16:57:45] (ERROR @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 948) xPDO->removeObject - Error deleting registry.db.modDbRegisterMessage instance using query DELETE FROM `modx_register_messages` WHERE  ( `modx_register_messages`.`topic` = 1 AND `modx_register_messages`.`id` = 'c4ca4238a0b923820dcc509a6f75849b' )  
+[2020-11-19 08:11:25] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:25] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:11:26] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:26] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:11:29] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:29] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:31] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:31] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:32] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:32] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:11:33] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:33] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:35] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:35] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:36] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:36] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:37] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:37] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:39] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:39] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:39] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:39] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:11:40] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:40] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:41] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:41] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:43] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:43] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:43] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:43] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:44] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:44] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:45] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:45] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:11:45] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:47] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:47] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:47] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:48] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:48] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:49] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:49] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:11:49] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:51] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:51] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:52] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:53] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:53] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:11:55] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:56] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:57] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:11:59] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:01] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:01] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `modx_extension_packages` AS `modExtensionPackage` JOIN `modx_namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2020-11-19 08:12:01] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:03] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:05] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:05] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:12:05] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:07] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:09] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:09] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:12:09] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:11] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:13] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:13] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `id` FROM `modx_site_content` AS `modResource` WHERE  ( `modResource`.`context_key` = ? AND `modResource`.`uri` = ? AND `modResource`.`deleted` = ? )  
+[2020-11-19 08:12:13] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:15] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:17] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:17] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:17] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `id` FROM `modx_site_content` AS `modResource` WHERE  ( `modResource`.`context_key` = ? AND `modResource`.`uri` = ? AND `modResource`.`deleted` = ? )  
+[2020-11-19 08:12:20] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:21] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:21] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:21] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoquery.class.php : 652) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2020-11-19 08:12:24] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:25] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:25] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+[2020-11-19 08:12:25] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `modx_session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2020-11-19 08:12:27] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('ckpsrgm2346v4agied4ca43fmf', 1605769945, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'ckpsrgm2346v4agied4ca43fmf' for key 'PRIMARY'
+)
+
+[2020-11-19 08:12:27] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/login
+[2020-11-19 08:41:55] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-19 08:50:13] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-19 09:01:29] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/2
+[2020-11-19 09:18:34] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-19 09:20:12] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-19 09:53:07] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 08:13:06] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 08:13:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-20 14:52:31] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 14:57:29] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-20 15:01:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:03:49] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:04:03] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:17:45] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/element
+[2020-11-20 15:19:43] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:20:08] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:21:56] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/element
+[2020-11-20 15:58:36] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/2
+[2020-11-20 15:58:36] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-20 15:58:36] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-20 15:58:50] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/2
+[2020-11-22 16:05:44] (ERROR @ C:\xampp\htdocs\core\xpdo\om\xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_register_messages` (`topic`, `id`, `created`, `valid`, `accesses`, `expires`, `payload`, `kill`) VALUES (1, 'c20ad4d76fe97759aa27a0c99bff6710', '2020-11-22 16:05:44', '2020-11-22 16:05:44', 0, 1606057904, 'if (time() > 1606057904) return null;\nreturn 1;\n', 0)
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry '1-c20ad4d76fe97759aa27a0c99bff6710' for key 'PRIMARY'
+)
+
+[2020-11-22 16:05:44] (ERROR @ C:\xampp\htdocs\core\model\modx\registry\moddbregister.class.php : 292) Could not send message to queue 1, topic /resource/. Message payload is Array
+(
+    [c20ad4d76fe97759aa27a0c99bff6710] => 1
+)
+
+[2020-11-22 16:22:02] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:22:02] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:22:02] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:22:02] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:22:02] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:22:02] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:22:02] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:22:02] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:24:38] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/2
+[2020-11-22 16:24:39] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 16:24:41] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:24:41] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:24:41] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:24:41] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:24:41] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:24:41] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:24:41] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:24:41] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:26:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:26:28] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:26:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:26:28] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:26:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:26:28] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:26:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:26:28] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:27:29] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:29] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:29] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:29] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:29] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:27:53] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:13] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:13] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:20] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:20] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:26] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:26] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:26] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:26] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:39] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:28:39] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 16:36:14] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-22 16:48:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:48:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:48:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:48:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:48:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:48:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:48:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:48:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:49:48] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/element
+[2020-11-22 16:49:51] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:49:51] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:49:51] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:49:51] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:49:51] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:49:51] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:49:51] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:49:51] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:50:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:50:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:50:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:50:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:50:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:50:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:50:04] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:50:04] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:50:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 16:51:16] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:16] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:16] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:16] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:16] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:16] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:16] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:16] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 16:51:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/element
+[2020-11-22 16:51:24] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:24] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:24] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:24] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:24] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:24] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:51:24] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:51:24] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:52:31] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 16:52:31] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/element
+[2020-11-22 16:52:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:52:32] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:52:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:52:32] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:52:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:52:32] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:52:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:52:32] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:53:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:53:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:55:33] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:55:33] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 16:59:37] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 16:59:37] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:07] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:10] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:10] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:07:59] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:07:59] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:09:01] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 17:10:02] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:10:05] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:10:05] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:18] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:18] (ERROR in resource 1 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:11:20] (ERROR @ C:\xampp\htdocs\core\model\modx\modx.class.php : 1031) `id` is not a valid integer and may not be passed to makeUrl()
+[2020-11-22 17:11:20] (ERROR in resource 5 @ C:\xampp\htdocs\core\model\modx\modparser.class.php : 1373) Bad link tag `[[~id]]` encountered
+[2020-11-22 17:13:46] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 17:19:19] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 20:38:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/dashboard
+[2020-11-22 20:38:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/topmenu
+[2020-11-22 20:38:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/file
+[2020-11-22 20:38:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/action
+[2020-11-22 20:38:57] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/chunk
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/1
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/formit/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/formit/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/3
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/ace/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/ace/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/4
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/ckeditor/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/ckeditor/default
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/menu
+[2020-11-22 20:38:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modmenu.class.php : 73) The menu cache key menus/topnav/ru could not be written.
+[2020-11-22 20:55:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 20:55:28] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 20:56:49] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 21:01:42] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 514) Error caching script elements/modplugin/2
+[2020-11-22 21:02:58] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 21:06:23] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:23] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:23] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:23] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:23] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:23] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:35] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:35] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:35] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:35] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:44] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:44] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:50] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:50] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:55] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:55] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:55] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:06:55] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:07:26] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:07:26] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:07:49] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 21:07:49] (ERROR in xPDO::getService @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 1234) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:07:49] (ERROR in modRestCurlClient::__construct @ C:\xampp\htdocs\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2020-11-22 21:23:47] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 22:13:21] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 22:18:43] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-22 22:23:32] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 22:35:21] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-22 22:41:12] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-22 22:41:43] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-22 22:42:11] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-22 22:42:11] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-22 22:48:09] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-22 22:48:09] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.

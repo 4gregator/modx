@@ -1,0 +1,2 @@
+[2020-11-18 15:01:34] (ERROR in xPDOConnection::connect @ C:\xampp\htdocs\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2020-11-18 15:01:34] (ERROR @ C:\xampp\htdocs\setup\includes\tables_create.php : 103) Could not connect to database server: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
