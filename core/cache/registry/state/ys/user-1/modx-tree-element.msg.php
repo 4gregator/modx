@@ -6,4 +6,5 @@ return array (
   3 => '/root/n_type_chunk/n_chunk_category_5',
   4 => '/root/n_type_template',
   5 => '/root/n_type_template/n_template_category_4',
+  6 => '/root/n_type_tv',
 );

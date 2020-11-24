@@ -630,3 +630,9 @@ Array
 [2020-11-22 22:42:11] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
 [2020-11-22 22:48:09] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
 [2020-11-22 22:48:09] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-23 08:05:38] (ERROR @ C:\xampp\htdocs\core\components\formit\src\FormIt\Hook\Email.php : 322) [FormIt] Произошла ошибка при попытке отправить почту. Невозможно запустить функцию mail.
+[2020-11-23 14:12:44] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-23 14:12:44] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/default
+[2020-11-23 14:12:48] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/ru/core/resource
+[2020-11-23 14:12:54] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default
+[2020-11-23 14:17:31] (ERROR @ C:\xampp\htdocs\core\model\modx\modcachemanager.class.php : 349) Error caching lexicon topic lexicon/en/core/default

@@ -46,6 +46,14 @@
     'hide_children_in_tree' => 0,
     'show_in_tree' => 1,
     'properties' => NULL,
+    'bg-img' => 
+    array (
+      0 => 'bg-img',
+      1 => '',
+      2 => 'default',
+      3 => NULL,
+      4 => 'image',
+    ),
     '_content' => '<!doctype html>
 <html lang="en">
 <head>
@@ -56,17 +64,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <!-- PLUGINS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="/assets/plugins/owl.carousel.min.js"></script>
-  <script src="/assets/plugins/jquery.nicescroll.min.js"></script>
+  <script src="/assets/template/plugins/owl.carousel.min.js"></script>
+  <script src="/assets/template/plugins/jquery.nicescroll.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.js" integrity="sha512-2uNmiP5LyAGw/+V9LErnph3zyGKVTcAxp2VCG1PnAucQ1YqQABr/1uuA0mv0vJCIZbwT1x8TEf6hhW/+zQNc4A==" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-  <link rel="stylesheet" href="/assets/plugins/owl.carousel.min.css">
-  <link rel="stylesheet" href="/assets/plugins/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.theme.default.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.css" integrity="sha512-gIn3+aW4xrkqoIvXsJ7F3woKfU+KTvEzXm0IXKmWqXZ8oyD9TfzFEdGDMF0egqto86E91yZVPzoa82a/dgSMig==" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <!-- STYLES -->
-  <link rel="stylesheet" href="/view/style/main.css">
-  <link rel="stylesheet" href="/view/style/adapt.css">
+  <link rel="stylesheet" href="/assets/template/css/main.css">
+  <link rel="stylesheet" href="/assets/template/css/adapt.css">
 </head>
 <body>
   <div class="wrapper-mmenu">
@@ -145,50 +153,50 @@
   </div>
 </aside>
 <div class="slider owl-carousel owl-theme">
-  <div class="item slider__item slider__item_img_1">
+  <div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 3</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-3" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 4</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-4" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 2</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-2" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 1</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-1" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
 </div>
 <div class="feedback" id="feedback">
   <div class="feedback__wrapper">
-    <img class="feedback__img" src="/view/img/feedback/photo1.png" alt="Заказать звонок">
+    <img class="feedback__img" src="/assets/template/img/feedback/photo1.png" alt="Заказать звонок">
     [[!AjaxForm? 
       &form=`feedback-form_tpl` 
       &snippet=`FormIt` 
@@ -205,7 +213,7 @@
 </div>
 <div id="answer" class="feedback">
   <div class="feedback__wrapper">
-    <img src="/view/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
+    <img src="/assets/template/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
     <div class="feedback__answer">
       <h2 class="feedback__title">Ваше сообщение отправлено!</h2>
       <p class="feedback__message">В ближайшее время с вами свяжется наш менеджер</p>
@@ -215,10 +223,10 @@
 </div>
     </div>
   </div>
-<script src="/assets/scripts/main.js"></script>
+<script src="/assets/template/js/main.js"></script>
 </body>
 </html>',
-    '_isForward' => true,
+    '_isForward' => false,
   ),
   'contentType' => 
   array (
@@ -245,17 +253,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <!-- PLUGINS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="/assets/plugins/owl.carousel.min.js"></script>
-  <script src="/assets/plugins/jquery.nicescroll.min.js"></script>
+  <script src="/assets/template/plugins/owl.carousel.min.js"></script>
+  <script src="/assets/template/plugins/jquery.nicescroll.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.js" integrity="sha512-2uNmiP5LyAGw/+V9LErnph3zyGKVTcAxp2VCG1PnAucQ1YqQABr/1uuA0mv0vJCIZbwT1x8TEf6hhW/+zQNc4A==" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-  <link rel="stylesheet" href="/assets/plugins/owl.carousel.min.css">
-  <link rel="stylesheet" href="/assets/plugins/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.theme.default.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.css" integrity="sha512-gIn3+aW4xrkqoIvXsJ7F3woKfU+KTvEzXm0IXKmWqXZ8oyD9TfzFEdGDMF0egqto86E91yZVPzoa82a/dgSMig==" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <!-- STYLES -->
-  <link rel="stylesheet" href="/view/style/main.css">
-  <link rel="stylesheet" href="/view/style/adapt.css">
+  <link rel="stylesheet" href="/assets/template/css/main.css">
+  <link rel="stylesheet" href="/assets/template/css/adapt.css">
 </head>',
     '[[$header]]' => '<body>
   <div class="wrapper-mmenu">
@@ -369,91 +377,92 @@
     &parents=`2`
     &depth=`0`
     &tpl=`slide_tpl`
-  ]]' => '<div class="item slider__item slider__item_img_1">
+    &includeTVs=`bg-img`
+  ]]' => '<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 3</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-3" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 4</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-4" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 2</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-2" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 1</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-1" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>',
     '[[$slider]]' => '<div class="slider owl-carousel owl-theme">
-  <div class="item slider__item slider__item_img_1">
+  <div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 3</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-3" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 4</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-4" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_2.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 2</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-2" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
-<div class="item slider__item slider__item_img_1">
+<div class="item slider__item" style="background-image: url(assets/template/img/slider/bg_1.png)">
   <div class="slider__desc">
     <p class="slider__title">Декоративные покрытия 1</p>
     <p class="slider__sub-title">от лучших производителей</p>
   </div>
   <a href="banneryi/dekorativnyie-pokryitiya-1" class="button slider__button">
     <span class="button__more">Подробнее</span>
-    <img src="/view/img/slider/forward.png" alt="&#8594;" class="button__arrow">
+    <img src="/assets/template/img/slider/forward.png" alt="&#8594;" class="button__arrow">
   </a>
 </div>
 </div>',
     '[[$feedback]]' => '<div class="feedback" id="feedback">
   <div class="feedback__wrapper">
-    <img class="feedback__img" src="/view/img/feedback/photo1.png" alt="Заказать звонок">
+    <img class="feedback__img" src="/assets/template/img/feedback/photo1.png" alt="Заказать звонок">
     [[!AjaxForm? 
       &form=`feedback-form_tpl` 
       &snippet=`FormIt` 
@@ -470,7 +479,7 @@
 </div>
 <div id="answer" class="feedback">
   <div class="feedback__wrapper">
-    <img src="/view/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
+    <img src="/assets/template/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
     <div class="feedback__answer">
       <h2 class="feedback__title">Ваше сообщение отправлено!</h2>
       <p class="feedback__message">В ближайшее время с вами свяжется наш менеджер</p>
@@ -480,7 +489,7 @@
 </div>',
     '[[$footer]]' => '    </div>
   </div>
-<script src="/assets/scripts/main.js"></script>
+<script src="/assets/template/js/main.js"></script>
 </body>
 </html>',
   ),
@@ -510,17 +519,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <!-- PLUGINS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="/assets/plugins/owl.carousel.min.js"></script>
-  <script src="/assets/plugins/jquery.nicescroll.min.js"></script>
+  <script src="/assets/template/plugins/owl.carousel.min.js"></script>
+  <script src="/assets/template/plugins/jquery.nicescroll.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.js" integrity="sha512-2uNmiP5LyAGw/+V9LErnph3zyGKVTcAxp2VCG1PnAucQ1YqQABr/1uuA0mv0vJCIZbwT1x8TEf6hhW/+zQNc4A==" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-  <link rel="stylesheet" href="/assets/plugins/owl.carousel.min.css">
-  <link rel="stylesheet" href="/assets/plugins/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.theme.default.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.css" integrity="sha512-gIn3+aW4xrkqoIvXsJ7F3woKfU+KTvEzXm0IXKmWqXZ8oyD9TfzFEdGDMF0egqto86E91yZVPzoa82a/dgSMig==" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <!-- STYLES -->
-  <link rel="stylesheet" href="/view/style/main.css">
-  <link rel="stylesheet" href="/view/style/adapt.css">
+  <link rel="stylesheet" href="/assets/template/css/main.css">
+  <link rel="stylesheet" href="/assets/template/css/adapt.css">
 </head>',
           'locked' => false,
           'properties' => 
@@ -538,17 +547,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <!-- PLUGINS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="/assets/plugins/owl.carousel.min.js"></script>
-  <script src="/assets/plugins/jquery.nicescroll.min.js"></script>
+  <script src="/assets/template/plugins/owl.carousel.min.js"></script>
+  <script src="/assets/template/plugins/jquery.nicescroll.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.js" integrity="sha512-2uNmiP5LyAGw/+V9LErnph3zyGKVTcAxp2VCG1PnAucQ1YqQABr/1uuA0mv0vJCIZbwT1x8TEf6hhW/+zQNc4A==" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-  <link rel="stylesheet" href="/assets/plugins/owl.carousel.min.css">
-  <link rel="stylesheet" href="/assets/plugins/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.carousel.min.css">
+  <link rel="stylesheet" href="/assets/template/plugins/owl.theme.default.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.18/mmenu.min.css" integrity="sha512-gIn3+aW4xrkqoIvXsJ7F3woKfU+KTvEzXm0IXKmWqXZ8oyD9TfzFEdGDMF0egqto86E91yZVPzoa82a/dgSMig==" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <!-- STYLES -->
-  <link rel="stylesheet" href="/view/style/main.css">
-  <link rel="stylesheet" href="/view/style/adapt.css">
+  <link rel="stylesheet" href="/assets/template/css/main.css">
+  <link rel="stylesheet" href="/assets/template/css/adapt.css">
 </head>',
         ),
         'policies' => 
@@ -875,6 +884,7 @@
     &parents=`2`
     &depth=`0`
     &tpl=`slide_tpl`
+    &includeTVs=`bg-img`
   ]]
 </div>',
           'locked' => false,
@@ -888,6 +898,7 @@
     &parents=`2`
     &depth=`0`
     &tpl=`slide_tpl`
+    &includeTVs=`bg-img`
   ]]
 </div>',
         ),
@@ -920,7 +931,7 @@
           'cache_type' => 0,
           'snippet' => '<div class="feedback" id="feedback">
   <div class="feedback__wrapper">
-    <img class="feedback__img" src="/view/img/feedback/photo1.png" alt="Заказать звонок">
+    <img class="feedback__img" src="/assets/template/img/feedback/photo1.png" alt="Заказать звонок">
     [[!AjaxForm? 
       &form=`feedback-form_tpl` 
       &snippet=`FormIt` 
@@ -937,11 +948,11 @@
 </div>
 <div id="answer" class="feedback">
   <div class="feedback__wrapper">
-    <img src="/view/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
+    <img src="/assets/template/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
     <div class="feedback__answer">
       <h2 class="feedback__title">Ваше сообщение отправлено!</h2>
       <p class="feedback__message">В ближайшее время с вами свяжется наш менеджер</p>
-      <a href="/" class="feedback__link">На главную</a>
+      <a href="[[~1]]" class="feedback__link">На главную</a>
     </div>
   </div>
 </div>',
@@ -953,7 +964,7 @@
           'static_file' => '',
           'content' => '<div class="feedback" id="feedback">
   <div class="feedback__wrapper">
-    <img class="feedback__img" src="/view/img/feedback/photo1.png" alt="Заказать звонок">
+    <img class="feedback__img" src="/assets/template/img/feedback/photo1.png" alt="Заказать звонок">
     [[!AjaxForm? 
       &form=`feedback-form_tpl` 
       &snippet=`FormIt` 
@@ -970,11 +981,11 @@
 </div>
 <div id="answer" class="feedback">
   <div class="feedback__wrapper">
-    <img src="/view/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
+    <img src="/assets/template/img/feedback/photo2.png" alt="Сообщение отправлено" class="feedback__img">
     <div class="feedback__answer">
       <h2 class="feedback__title">Ваше сообщение отправлено!</h2>
       <p class="feedback__message">В ближайшее время с вами свяжется наш менеджер</p>
-      <a href="/" class="feedback__link">На главную</a>
+      <a href="[[~1]]" class="feedback__link">На главную</a>
     </div>
   </div>
 </div>',
@@ -1008,7 +1019,7 @@
           'cache_type' => 0,
           'snippet' => '    </div>
   </div>
-<script src="/assets/scripts/main.js"></script>
+<script src="/assets/template/js/main.js"></script>
 </body>
 </html>',
           'locked' => false,
@@ -1019,7 +1030,7 @@
           'static_file' => '',
           'content' => '    </div>
   </div>
-<script src="/assets/scripts/main.js"></script>
+<script src="/assets/template/js/main.js"></script>
 </body>
 </html>',
         ),
